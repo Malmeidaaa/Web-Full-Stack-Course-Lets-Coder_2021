@@ -1,0 +1,15 @@
+{
+  "name": "projeto-final",
+  "version": "1.0.0",
+  "description": "a let's code project made with love",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
